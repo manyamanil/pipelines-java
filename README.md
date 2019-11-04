@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/anilmanyam/anil_manyam/_apis/build/status/manyamanil.pipelines-java?branchName=master)](https://dev.azure.com/anilmanyam/anil_manyam/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
